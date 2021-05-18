@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Rebecca Taylor/Documents/Gameheads Stuff/C++Reup/AdventureGame/main.cpp
+string
+-
+cstdlib
+-
+iostream
+-
+windows.h
+-
+synchapi.h
+-
+
